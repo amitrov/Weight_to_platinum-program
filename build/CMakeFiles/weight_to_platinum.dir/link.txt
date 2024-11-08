@@ -1,0 +1,1 @@
+/usr/bin/c89-gcc -g CMakeFiles/weight_to_platinum.dir/weight_to_platinum.c.o -o weight_to_platinum 

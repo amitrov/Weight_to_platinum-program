@@ -1,0 +1,3 @@
+/home/abstract/projects/tutorial2/Task_2/build/CMakeFiles/weight_to_platinum.dir
+/home/abstract/projects/tutorial2/Task_2/build/CMakeFiles/edit_cache.dir
+/home/abstract/projects/tutorial2/Task_2/build/CMakeFiles/rebuild_cache.dir

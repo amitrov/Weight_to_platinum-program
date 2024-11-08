@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/abstract/projects/tutorial2/Task_2/build",
+  "command": "/usr/bin/c89-gcc   -g -o CMakeFiles/weight_to_platinum.dir/weight_to_platinum.c.o -c /home/abstract/projects/tutorial2/Task_2/weight_to_platinum.c",
+  "file": "/home/abstract/projects/tutorial2/Task_2/weight_to_platinum.c",
+  "output": "CMakeFiles/weight_to_platinum.dir/weight_to_platinum.c.o"
+}
+]
